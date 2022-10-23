@@ -19,3 +19,11 @@ https://user-images.githubusercontent.com/60646682/197403667-4e218f87-24a6-4bf5-
 
 ### Sidebar
 <img width="275" alt="Screenshot 2022-10-23 at 9 56 49 PM" src="https://user-images.githubusercontent.com/60646682/197403877-0aa5e8b3-d0e2-435c-85c2-068b0b094abe.png">
+
+# Resources
+
+
+- [Medusa’s GitHub repository](https://github.com/medusajs/medusa)
+- [How to Create Services](https://docs.medusajs.com/advanced/backend/services/create-service)
+- [Medusa Docs](https://docs.medusajs.com/quickstart/quick-start/)
+- [Flutter Docs](https://docs.flutter.dev/)
